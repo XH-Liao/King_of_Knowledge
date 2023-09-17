@@ -1,6 +1,9 @@
 # King_of_Knowledge
 Game-知識王
 
+![知識王](https://github.com/XH-Liao/King_of_Knowledge/assets/100434449/ba65fbe5-92e4-4f7a-bdf6-6e73ac5cfcd2)
+
+
 遊玩流程
 1. 開啟遊戲並點擊開始
 2. 等待對手
